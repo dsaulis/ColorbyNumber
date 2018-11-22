@@ -1,0 +1,10 @@
+.center{
+  text-align: center;
+}
+img{
+  margin: 1em;
+  max-width: 100%;
+}
+.half{
+  max-width: 50%;
+}
