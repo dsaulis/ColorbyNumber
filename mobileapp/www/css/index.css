@@ -3,17 +3,28 @@
 }
 img{
   margin: 1em;
-  max-width: 20%;
+  max-width: 75%;
+  padding-top: 89px;
+  padding-right: 80px;
+  padding-bottom: 10px;
+  padding-left: 80px;
 }
 .half{
-  max-width: 20%;
+  max-width: 40%;
 }
 .button{
   text-align: center;
   border-radius: 25px:
-  padding: 75px;
+  padding: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 .page-content{
   background-image: url(img/border.jfif);
   background-size: 100% 100%;
+}
+.levels{
+  font-size: 10px;
+  text-align: center;
+  margin-top: 50%;
 }
