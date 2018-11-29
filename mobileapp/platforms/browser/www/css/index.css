@@ -13,8 +13,7 @@ img{
   border-radius: 25px:
   padding: 75px;
 }
-.background{
-background-image: url(img/border.jfif);
-background-repeat: no-repeat;
-max-width: 100%;
+.page-content{
+  background-image: url(img/border.jfif);
+  background-size: 100% 100%;
 }

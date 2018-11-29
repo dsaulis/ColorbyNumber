@@ -1,16 +1,14 @@
 Vue.component('page-home', {
   template: `
     <f7-page>
-    <div class="background">
       <div class="center">
         <img src=css/img/Actions-fill-color-icon.png class="half" />
       </div>
-    <div class="button">
-      <f7-button fill round color="red" href="/newgame">New Game</f7-button>
-    </div>
-      <f7-button fill round color="green">Options</f7-button>
-    </div>
-    </div>
+      <f7-block>
+        <f7-button fill round color="red" href="/newgame">New Game</f7-button>
+
+        <f7-button fill round color="green">Options</f7-button>
+      </f7-block>
     </f7-page>
   `,
   props: {
