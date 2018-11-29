@@ -23,6 +23,7 @@ Vue.component('page-home', {
 
   }
 })
+
 Vue.component('newgame', {
   template: `
   <f7-page>
