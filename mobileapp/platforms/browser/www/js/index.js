@@ -16,6 +16,10 @@ var app = new Vue({
         path: '/newgame',
         component: 'newgame'
       },
+      {
+        path: '/level-one',
+        component: 'level-one'
+      },
     ],
     on: { //Run functions when Framework7 events happen
       init: function(){ //The framework7 equivalent of VueJS's created: function(){}
