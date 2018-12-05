@@ -32,3 +32,15 @@ img{
 font-style: italic;
 color: purple;
 }
+.view .page .navbar{
+  color: black;
+  text-decoration: bold;
+  background: transparent;
+}
+.swiper-container{
+  margin-top: 20%;
+}
+}
+.swiper-slide{
+  box-sizing: border-box;
+}
